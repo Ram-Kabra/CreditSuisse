@@ -1,0 +1,30 @@
+2022-07-27 14:20:36 INFO  DataAccessObject:20 - Opening database connection at < hsqldb/logs >
+2022-07-27 14:20:36 INFO  ENGINE:? - checkpointClose start
+2022-07-27 14:20:36 INFO  ENGINE:? - checkpointClose end
+2022-07-27 14:20:36 INFO  DataAccessObject:28 - Creating Events table
+2022-07-27 14:20:36 DEBUG Parser:28 - Parsing file <logfile.txt> for events.
+2022-07-27 14:20:36 DEBUG DataAccessObject:53 - Retrieving all DB entries in < Events > table.
+2022-07-27 14:20:36 DEBUG DataAccessObject:58 - Alert for EventID <scsmbstgra>
+2022-07-27 14:20:36 DEBUG DataAccessObject:58 - Alert for EventID <scsmbstgrc>
+2022-07-27 14:20:36 WARN  DataAccessObject:66 - Deleting all entries in DB table < Events >.
+2022-07-27 14:20:36 INFO  DataAccessObject:46 - Closing DB connection.
+2022-07-27 14:26:01 INFO  DataAccessObject:20 - Opening database connection at < hsqldb/logs >
+2022-07-27 14:26:01 INFO  ENGINE:? - checkpointClose start
+2022-07-27 14:26:01 INFO  ENGINE:? - checkpointClose end
+2022-07-27 14:26:01 INFO  DataAccessObject:28 - Creating Events table
+2022-07-27 14:26:01 DEBUG Parser:28 - Parsing file <logfile.txt> for events.
+2022-07-27 14:26:01 DEBUG DataAccessObject:53 - Retrieving all DB entries in < Events > table.
+2022-07-27 14:26:01 DEBUG DataAccessObject:58 - Alert for EventID <scsmbstgra>
+2022-07-27 14:26:01 DEBUG DataAccessObject:58 - Alert for EventID <scsmbstgrc>
+2022-07-27 14:26:01 WARN  DataAccessObject:66 - Deleting all entries in DB table < Events >.
+2022-07-27 14:26:01 INFO  DataAccessObject:46 - Closing DB connection.
+2022-07-27 14:32:51 INFO  DataAccessObject:20 - Opening database connection at < hsqldb/logs >
+2022-07-27 14:32:51 INFO  ENGINE:? - checkpointClose start
+2022-07-27 14:32:51 INFO  ENGINE:? - checkpointClose end
+2022-07-27 14:32:51 INFO  DataAccessObject:28 - Creating Events table
+2022-07-27 14:32:51 DEBUG Parser:28 - Parsing file <logfile.txt> for events.
+2022-07-27 14:32:51 DEBUG DataAccessObject:53 - Retrieving all DB entries in < Events > table.
+2022-07-27 14:32:51 DEBUG DataAccessObject:58 - Alert for EventID <scsmbstgra>
+2022-07-27 14:32:51 DEBUG DataAccessObject:58 - Alert for EventID <scsmbstgrc>
+2022-07-27 14:32:51 WARN  DataAccessObject:66 - Deleting all entries in DB table < Events >.
+2022-07-27 14:32:51 INFO  DataAccessObject:46 - Closing DB connection.
